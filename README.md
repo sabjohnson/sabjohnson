@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 ### Languages and Tools
 <img aling= "left" alt= "Java" width= "30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 <img aling= "left" alt= "Java" width= "30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+<img aling= "left" alt= "Java" width= "30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
