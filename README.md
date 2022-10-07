@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 
 ### Languages and Tools
-<img aling= "left" alt= "Java" width= "30px" style= "padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fjavascript-2038874&psig=AOvVaw3O5oRsj6xMa3oR-R88GBEG&ust=1665194247891000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCGiJGCzfoCFQAAAAAdAAAAABAm">
+<img aling= "left" alt= "Java" width= "30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
