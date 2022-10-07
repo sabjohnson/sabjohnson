@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... C language
 - 🤔 I’m looking for help with ... finding internships
 - 💬 Ask me about ... my rollerblades
-- 📫 How to reach me: @jsabrina949@gmail.com, linkedin.com/in/sabrina-johnson-78198a1aa
+- 📫 How to reach me: linkedin.com/in/sabrina-johnson-78198a1aa
 - 😄 Pronouns: she/her
