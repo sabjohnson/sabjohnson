@@ -2,6 +2,8 @@
 
 **A Creative of Various Medias (Programmer/Dancer)**
 
+https://media.giphy.com/media/qycX5IhwgIXSw/giphy.gif
+
 Hi, I am a sophmore in computer science at Stony Brook University looking to become a software engineer. My current learning interest is in learning to combine user interfaces with backend programs. If you want have any further questions about my background feel free to reach out.
 
 Here are some ideas to get you started:
