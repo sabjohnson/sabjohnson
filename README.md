@@ -1,22 +1,16 @@
-# Sabrina Johnson
+# Sabrina Johnson (She/Her)
 
-**A Creative of Various Medias (Programmer/Dancer)**
-
-Hi, I am a sophmore in computer science at Stony Brook University looking to become a software engineer. My current learning interest is in learning to combine user interfaces with backend programs. If you want have any further questions about my background feel free to reach out.
+Hello! I am a masters student in computer science at Cornell University interested in distributed systems. I graduate May 2026 and am looking for full-time roles. If you want to chat or have any further questions about my background feel free to reach out via email.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... a notes app project
-- 🌱 I’m currently learning ... C language
-- 🤔 I’m looking for help with ... finding internships
-- 💬 Ask me about ... my rollerblades
-- 😄 Pronouns: she/her
+- 🔭 I’m currently working on ... a shared log
+- 🌱 I’m currently learning ... how to use Hadoop
+- 💬 Ask me about ... my favorite coreographers
 
 
-### Languages and Tools
-<div>
-<img aling= "left" alt= "Java" width= "30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img aling= "left" alt= "Java" width= "30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
-<img aling= "left" alt= "Java" width= "30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-<img aling= "left" alt= "Java" width= "30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg"/>
-<div/>
+### My Most Familiar Languages
+- C/C++
+- Java
+- Python
+- Go
