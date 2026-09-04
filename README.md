@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... a shared log
 - 🌱 I’m currently learning ... how to use Hadoop
-- 💬 Ask me about ... my favorite coreographers
+- 💬 Ask me about ... my favorite dance choreographers
 
 
 ### My Most Familiar Languages
